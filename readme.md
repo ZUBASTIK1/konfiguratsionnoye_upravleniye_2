@@ -43,4 +43,7 @@ version=1.0.0
 filter_substring=test
 ```
 
+
 ## 4. Примеры **использования**
+
+<img width="857" height="272" alt="image" src="https://github.com/user-attachments/assets/f246e2f0-1fc7-4029-963b-32ff78e820d2" />
