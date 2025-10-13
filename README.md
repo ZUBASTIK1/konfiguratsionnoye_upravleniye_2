@@ -1,1 +1,0 @@
-# konfiguratsionnoye_upravleniye_2
