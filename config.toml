@@ -1,0 +1,7 @@
+[settings]
+package_name = "my_package"
+repository_url = "D:/cillian/oppenheimer/ronaldo"   # путь к репозиторию или URL
+repo_mode = "local"                               # или "remote"
+version = "3.3.1"
+filter_substring = "lib"
+

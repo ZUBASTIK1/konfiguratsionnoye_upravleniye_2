@@ -1,0 +1,8 @@
+[project]
+name = "my_package"
+version = "1.0.0"
+dependencies = [
+    "requests>=2.0",
+    "numpy==1.25",
+    "pandas"
+]
