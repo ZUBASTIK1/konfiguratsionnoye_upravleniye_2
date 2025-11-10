@@ -1,6 +1,0 @@
-[settings]
-package_name = "my_package"
-repository_url = "https://example.com/repo"
-repo_mode = "local"        # допустим: local | remote
-version = "1.0.0"
-filter_substring = "lib"
