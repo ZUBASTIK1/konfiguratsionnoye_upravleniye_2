@@ -50,4 +50,10 @@ filter_substring = "lib"             # фильтр по подстроке (о�
 python cli_1.py
 ```
 
+
 ## 4. Примеры **использования**
+
+<img width="389" height="203" alt="image" src="https://github.com/user-attachments/assets/fdd5a5e4-c50d-40b8-836b-ac1da89bd7ae" />
+
+<img width="430" height="199" alt="image" src="https://github.com/user-attachments/assets/89624f64-6f38-4488-b4b5-f50a06b86e17" />
+
